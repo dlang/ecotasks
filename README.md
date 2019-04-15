@@ -13,7 +13,7 @@ Before the second Quarterly D Language Foundation meeting in March, 2019, [a pro
 In the end, the quarterly option was the agreed upon approach. Not all of the companies could commit to sparing any manpower initially. Some were just starting up and others were short on manpower already. However, all agreed to support the initiative in principle as circumstances allow. One company committed to starting the initiative immediately, and one did so conditionally. Those who could not provide manpower at the moment offered to provide funding instead (and that sparked a separate initiative).
 
 ## The Task List
-This repository houses the list from which companies currently sharing manpower will select tasks to complete. Anyone in the community is welcome to tasks to add to the list, but the following guidelines should be considered when doing so:
+[This repository houses the list](./ecotasks.md) from which companies currently sharing manpower will select tasks to complete. Anyone in the community is welcome to tasks to add to the list, but the following guidelines should be considered when doing so:
 
 * no task should be estimated to take longer than a single working day to complete; asking companies to maintain continuity between a single day each quarter and quite probably different developers is a bridge too far.
 * generic task groupings are preferable to specific tasks, e.g. "Close as many issues as possible on Project Foo".
