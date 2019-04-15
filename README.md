@@ -21,10 +21,18 @@ In the end, the quarterly option was the agreed upon approach. Not all of the co
 
 Pull requests are welcome for corrections in the list, but task suggestions should be reported as issues. The list will be roughly sorted according to what the D Language Foundation considers a priority, i.e. items higher on the list will be of higher priority than those lower on the list. Ultimately, it will be up to each worker a company makes available to decide which tasks to complete.
 
-When a worker begins a day of manpower sharing, the worker will be asked to submit an issue indicating which task(s) he or she is currently working on and to close the issue at the end of the day. This will help reduce odds that two workers from different companies working on the same day end up working on the same tasks.
-
 ## Volunteers
 We don't want to put the burden of sharing manpower solely on the companies using D in production. Anyone interested in helping improve the D ecosystem is welcome to work on items from the task list. In fact, if you have a little time on your hands, closing even a trivial issue from this list will be a tremendous help. Even better, challenge yourself to close one issue a month from the list!
 
 If you do decide to pitch in, please remember to submit an issue detailing which task(s) you are currently working on and close the issue at the end of your work session so that we can minimize the risk of duplicate work.
+
+## Avoiding Duplication
+Given that we're asking the whole community to contribute, it's important that we have a mechanism to avoid duplication. As such, 
+when anyone begins a session of manpower sharing, we ask that person to submit an issue indicating which task(s) he or she is currently working on and to close the issue at the end of the day.
+
+For example, when starting a session, open an issue with a note like the following:
+
+> I'm working on the dub registry issues right now. Specifically, I plan to tackle issues #I, #J, and #K.
+
+Update the issue as needed if more specific tasks are taken on. At the end of the seesion, the issue should be closed with a note indicating what was accomplished.
 
