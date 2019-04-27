@@ -11,7 +11,7 @@ Any manpower contributed toward the following tasks and task groups will be grea
 * close [as many D-Scanner issues](https://github.com/dlang-community/D-Scanner/issues) as possible.
 * close [as many libdparse issues](https://github.com/dlang-community/libdparse/issues) as possible.
 * close [as many dfmt issues](https://github.com/dlang-community/dfmt/issues) as possible.
-
+* bring up-to-date [gdb demangling](https://forum.dlang.org/post/mailman.195.1524246918.29801.digitalmars-d-announce@puremagic.com) support.
 
 
 
